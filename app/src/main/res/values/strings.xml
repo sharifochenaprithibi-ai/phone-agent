@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Agent</string>
+    <string name="service_desc">Lets Phone Agent tap, swipe, type and open apps for you.</string>
+</resources>
